@@ -1,2 +1,4 @@
-test.txt
+# test.txt
 news data
+new data
+0b8ccc9 (changed file.txt and added .gitignore)
